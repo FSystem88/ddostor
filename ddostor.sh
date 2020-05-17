@@ -125,7 +125,7 @@ if [[ $checkcount != $inst ]]; then
 printf "\e[1;93m[!] It requires all tor running!\e[0m\n"
 printf "\e[1;77m1) Check again\e[0m\n"
 printf "\e[1;77m2) Restart\n\e[0m"
-printf "\e[1;77m2) Exit\n\e[0m"
+printf "\e[1;77m3) Exit\n\e[0m"
 read -p $'\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Choose an option: \e[0m' fail  
 
 
