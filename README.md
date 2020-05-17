@@ -15,7 +15,7 @@ Usage of DDoSTor for attacking targets without prior mutual consent is illegal. 
 ```
 git clone https://github.com/thelinuxchoice/ddostor
 cd ddostor
-bash ddostor
+bash ddostor.sh
 ```
 
 ### Install requirements (Tor):
